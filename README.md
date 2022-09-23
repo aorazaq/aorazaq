@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @aorazaq
 - 👀 I’m interested in coding in general
-- 🌱 I’m currently learning web development
+- im also a python developer
+- 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..my gmail is aoabdulrzaq@gmail.com
 <!---
